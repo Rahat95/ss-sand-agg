@@ -1,0 +1,29 @@
+# S.S Sand & Aggregates Supplier
+
+> S.S Sand & Aggregates Supplier is Mumbai's largest and most trusted supplier of high-quality construction materials, including River Sand, M-Sand, Aggregates, Stone Chips, and GSB/filling materials.
+
+## Products
+
+- [River Sand](https://ss-sand-agg.vercel.app/#products): Premium natural river sand for plastering and masonry work.
+- [M-Sand (Manufactured Sand)](https://ss-sand-agg.vercel.app/#products): High-quality manufactured sand for RCC and concrete applications.
+- [Aggregates](https://ss-sand-agg.vercel.app/#products): High-strength crushed stone aggregates in 10mm, 20mm, and 40mm sizes.
+- [Stone Chips](https://ss-sand-agg.vercel.app/#products): Clean, angular crushed stone chips designed for concrete and foundation bonding.
+- [GSB & Filling Material](https://ss-sand-agg.vercel.app/#products): Granular sub-base and filling materials for road construction and civil infrastructure.
+
+## Service Coverage
+
+- **Primary Regions:** Mumbai (All Areas), Navi Mumbai, Thane, Western Suburbs, Central Suburbs, Eastern Suburbs.
+- **Extended Coverage:** Kalyan-Dombivli, Vasai-Virar, Mira-Bhayandar, Panvel.
+
+## Key Information
+
+- **Minimum Order Quantity:** Starts from 1 truckload (approx. 10-12 cubic meters).
+- **Delivery Timelines:** 24–48 hours across primary coverage regions; same-day delivery available based on stock.
+- **Full Details:** For full context, product breakdown, and specs, see [llms-full.txt](https://ss-sand-agg.vercel.app/llms-full.txt).
+
+## Contact Information
+
+- **Phone:** +91 98765 43210
+- **Email:** rprp786911@gmail.com
+- **Location:** Mumbai, Maharashtra, India
+- **Business Hours:** Mon-Sat: 8:00 AM - 6:00 PM | Sun: 9:00 AM - 2:00 PM

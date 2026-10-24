@@ -1,0 +1,22 @@
+# User-Agent rules for web crawlers and LLM bots
+
+User-agent: *
+Allow: /
+
+# Allow LLM crawlers access for documentation and search
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://ss-sand-agg.vercel.app/sitemap.xml
